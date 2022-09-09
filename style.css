@@ -2,9 +2,10 @@
 
 /**root**/
 :root {
-  --primary-color: #6ee7b7;
-  --blue-color: #22d3ee;
-  --off-white: #7e22ce;
+  --primary-color: #7c3aed;
+  --blue-color: #6b7280;
+
+  --off-white: #f3f4f6;
 }
 
 body {
@@ -43,7 +44,7 @@ hr {
 .link-primary {
   background-color: var(--primary-color);
   border-radius: 0.5rem;
-  color: rgb(172, 124, 124);
+  color: white;
 }
 
 .link-secondary {
